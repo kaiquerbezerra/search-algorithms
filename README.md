@@ -1,2 +1,5 @@
 # search-algorithms
-Python codes for three types of search shortest path algorithms in graph theory
+Algorithms in question: 
+Floyd-Warshall
+Bellman-Ford
+Dijkstra
